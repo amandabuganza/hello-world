@@ -1,2 +1,2 @@
-# hello-world
+# Outro título
 Teste de criação de repertório - SENAI (30/01/2026)
